@@ -1,2 +1,6 @@
 *.pyc
-src/*.json 
+ff-moulinette/*.json
+
+build
+dist
+ff_moulinette.egg-info
